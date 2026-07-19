@@ -210,3 +210,10 @@ into the local user-data directory and start `llama-server` on demand.
 For development, runtime locations and the local model port can be overridden
 with the `AURIGASQL_LLAMA_SERVER_PATH` and
 `AURIGASQL_LOCAL_MODEL_PORT` variables shown in `.env.example`.
+
+## License
+
+AurigaSQL is licensed under the [MIT License](LICENSE).
+
+Bundled datasets and third-party components may be subject to their own
+licenses and attribution requirements.

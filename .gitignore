@@ -33,7 +33,6 @@ $RECYCLE.BIN/
 /AGENTS.md
 /CLAUDE.md
 /aurigasql-demo-script.md
-/LICENSE
 
 # Environment variables and local secrets
 .env
